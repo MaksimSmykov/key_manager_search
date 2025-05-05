@@ -3,7 +3,7 @@
     <img src='https://github.com/user-attachments/assets/876ca917-8418-4d64-9da8-7804c06ae686' width="49%" height="49% alt="Key Manager search">
 </p>
 
-# ANTSOFT Key Manager search (Python 3.9)
+# Searcher for ANTSOFT Key Manager (Python 3.9)
 
 
 If you use ANTSOFT Key Manager and you need to find something among the actions, this program will help you!
